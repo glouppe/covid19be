@@ -6,5 +6,5 @@ This repository gathers models of the COVID-19 epidemics in Belgium. It is maint
 
 Our goal is primarily to provide educational materials in order to better understand the mathematics behind models of epidemics and to sensitize everyone to the requirements of protection measures. 
 
-**Disclaimer**: All models are wrong, but some are useful. Results presented across these notebooks should **not** be interpreted as forecasts. 
+**Disclaimer**: All models are wrong, but some are useful. Results presented across these notebooks should **not** be interpreted as crystal ball forecasts. 
 
