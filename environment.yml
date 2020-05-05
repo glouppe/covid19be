@@ -1,0 +1,10 @@
+name: covid19be
+channels:
+  - conda-forge
+dependencies:
+  - python=3
+  - numpy
+  - scipy
+  - matplotlib
+  - jupyter
+  - pandas
