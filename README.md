@@ -2,7 +2,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/glouppe/covid19be/master)
 
-This repository gathers models of the COVID-19 epidemics in Belgium. It is maintained by researchers of ULiège. 
+This repository gathers models of the COVID-19 epidemics in Belgium. It is developed and maintained by researchers from the University of Liège, including Nicolas Vandewalle, Eric Opsomer, Gilles Louppe and Antoine Wehenkel.
 
 Our goal is primarily to provide educational materials in order to better understand the mathematics behind models of epidemics and to sensitize everyone to the requirements of protection measures. 
 
